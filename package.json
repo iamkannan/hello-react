@@ -1,0 +1,17 @@
+{
+  "name": "reactja-example",
+  "version": "1.0.0",
+  "description": "This is just a example react js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactjs-kannan"
+  ],
+  "author": "kannan",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  }
+}
