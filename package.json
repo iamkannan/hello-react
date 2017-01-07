@@ -1,5 +1,5 @@
 {
-  "name": "reactja-example",
+  "name": "reactjs-hello",
   "version": "1.0.0",
   "description": "This is just a example react js project",
   "main": "index.js",
@@ -10,8 +10,9 @@
     "reactjs-kannan"
   ],
   "author": "kannan",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
-    "webpack": "^1.14.0"
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
   }
 }
